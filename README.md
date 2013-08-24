@@ -1,7 +1,7 @@
-basicJS
+G Plus Plus
 =======
 
-Basic HTML5 template for rapid testing and developing.
+How to run it and start working
 
 
 Install nodejs and npm
