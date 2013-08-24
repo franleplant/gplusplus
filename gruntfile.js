@@ -4,8 +4,8 @@ module.exports = function(grunt) {
     grunt.initConfig({
 
         path: {
-            css: './css/',
-            sass:'./sass/'
+            css: './src/css/',
+            sass:'./src/sass/'
         },
 
 
